@@ -1,0 +1,20 @@
+
+A product has a name, a numeric id and a price
+A storage has a number of products with quantities 
+An order is for a name and address (use a text field for each).
+An order is for one or more products, with a quantity each
+
+write create table statements for tables to store the above information
+
+write insert statements to insert the products listed in the shopmenu.pdf
+example
+
+write insert statements so that the storage contains 150 coca cola, 130 pepsi
+and 2 monster energy
+
+write inert statements to insert one order of 16 cola, 5 pepsi and 1 mineral water
+
+write one or more select to check if all items in an order is available inn
+storage.
+
+write a select statement to list all orders. List the name and the total price for each order
