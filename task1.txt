@@ -1,0 +1,10 @@
+make a shopmenu.html file that looks approximately like shopmenu.pdf 
+
+there's limited time, so make it simple and quick. it does not need to
+look exactly like the example:
+
+- use CSS for some style elements
+- use JavaScript so that whenever you click on "order" for a product,
+  it should display a message "Error: <product> is sold out" 
+  Whenever you enter an email address and click on "subscribe", it
+  should display an error message "Error: <email address> is not valid"
