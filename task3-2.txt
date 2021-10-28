@@ -1,0 +1,6 @@
+Implement a class OrderService with two methods:
+- getOrders() - should return a list of all orders
+- getPriceOfOrder(order) - should take one order as parameter
+  and return the price for that order.
+
+
