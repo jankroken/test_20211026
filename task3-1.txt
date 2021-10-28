@@ -1,0 +1,5 @@
+Implement some simple java classes that can be used to represent
+products, storage and orders as described in task 2.
+
+implement a class Repository that can be used to store orders,
+products and storage in memory
