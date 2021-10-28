@@ -1,0 +1,8 @@
+write unix commands to:
+
+- create a directory test1
+- change active director to test1
+
+- create a file that has the name "hello.txt" and contains "hello world"
+- copy hello.txt to world.txt
+- list all lines in all files in the current folder that contains the word "hello"
