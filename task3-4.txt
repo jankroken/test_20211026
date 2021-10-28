@@ -1,0 +1,3 @@
+Implement a new method in OrderService, removeProduct, which
+removes a product from the Storage, from the list of available products
+and all current orders
